@@ -219,7 +219,7 @@ import siteData from '../../../assets/data/site-data.json';
             <div class="grid grid-cols-2 gap-4">
                <div class="space-y-4">
                   <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=400" class="rounded-3xl shadow-lg w-full h-80 object-cover" alt="Safety 1">
-                  <img src="https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=400" class="rounded-3xl shadow-lg w-full h-48 object-cover" alt="Safety 2">
+                  <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=400" class="rounded-3xl shadow-lg w-full h-80 object-cover" alt="Safety 1">
                </div>
                <div class="space-y-4 pt-12">
                   <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80&w=400" class="rounded-3xl shadow-lg w-full h-48 object-cover" alt="Safety 3">
