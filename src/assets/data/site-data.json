@@ -1,0 +1,72 @@
+{
+  "trainings": [
+    {
+      "id": "nr-35",
+      "nr": "35",
+      "title": "NR-35: Trabalho em Altura",
+      "category": "Segurança Operacional",
+      "shortDescription": "Treinamento obrigatório para profissionais que realizam atividades acima de 2 metros de altura.",
+      "fullDescription": "A NR-35 estabelece os requisitos mínimos e as medidas de proteção para o trabalho em altura, envolvendo o planejamento, a organização e a execução, de forma a garantir a segurança e a saúde dos trabalhadores envolvidos direta ou indiretamente com esta atividade.",
+      "workload": "8 horas (Formação) / 8 horas (Reciclagem)",
+      "curriculum": [
+        "Normas e regulamentos aplicáveis ao trabalho em altura",
+        "Análise de Risco e condições impeditivas",
+        "Riscos potenciais inerentes ao trabalho em altura e medidas de prevenção e controle",
+        "Equipamentos de Proteção Individual para trabalho em altura",
+        "Acidentes típicos em trabalhos em altura",
+        "Condutas em situações de emergência, incluindo noções de técnicas de resgate e de primeiros socorros"
+      ],
+      "image": "https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=600",
+      "ctaText": "Solicitar Orçamento Agendado"
+    },
+    {
+      "id": "nr-33",
+      "nr": "33",
+      "title": "NR-33: Espaço Confinado",
+      "category": "Segurança Operacional",
+      "shortDescription": "Segurança e saúde nos trabalhos em espaços confinados para vigias e trabalhadores.",
+      "fullDescription": "Este treinamento visa capacitar profissionais a identificar, monitorar e controlar riscos em espaços não projetados para ocupação humana contínua.",
+      "workload": "16 horas (Trabalhadores/Vigias) / 40 horas (Supervisor)",
+      "curriculum": [
+        "Definições de espaços confinados",
+        "Reconhecimento, avaliação e controle de riscos",
+        "Funcionamento de equipamentos utilizados",
+        "Procedimentos e utilização da Permissão de Entrada e Trabalho",
+        "Noções de resgate e primeiros socorros"
+      ],
+      "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=600",
+      "ctaText": "Consultar datas disponíveis"
+    },
+    {
+      "id": "nr-10",
+      "nr": "10",
+      "title": "NR-10: Segurança em Eletricidade",
+      "category": "Segurança em Eletricidade",
+      "shortDescription": "Segurança em instalações e serviços em eletricidade.",
+      "fullDescription": "Capacitação sobre medidas de controle e sistemas preventivos, de forma a garantir a segurança e a saúde dos trabalhadores que interajam em instalações elétricas e serviços com eletricidade.",
+      "workload": "40 horas (Básico) / 40 horas (SEP)",
+      "curriculum": [
+        "Introdução à segurança com eletricidade",
+        "Riscos em instalações e serviços com eletricidade",
+        "Técnicas de Análise de Risco",
+        "Medidas de Controle do Risco Elétrico",
+        "Normas Técnicas Brasileiras e ABNT",
+        "Primeiros socorros e combate a incêndios"
+      ],
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&q=80&w=600",
+      "ctaText": "Solicitar proposta para empresas"
+    }
+  ],
+  "certificates": {
+    "VAL-2024-001": {
+      "studentName": "João Silva Pereira",
+      "course": "NR-35: Trabalho em Altura",
+      "completionDate": "2024-03-15",
+      "expiryDate": "2026-03-15",
+      "workload": "8h",
+      "status": "Válido",
+      "instructor": "Eng. Ricardo Santos",
+      "company": "TrenySeg Treinamentos"
+    }
+  }
+}

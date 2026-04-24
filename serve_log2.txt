@@ -1,0 +1,106 @@
+
+Warning: This is a simple server for use in testing or debugging Angular applications
+locally. It hasn't been reviewed for security issues.
+
+Binding this server to an open connection can result in compromising your application or
+computer. Using a different host than the one passed to the "--host" flag might result in
+websocket connection issues.
+    
+❯ Building...
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/app.component.ts:38:102:
+      38 │ ...ent"; function AppComponent_HmrLoad(t) { import(/* @vite-ignore */
+         ╵                                             ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/components/whatsapp-button/whatsapp-button.component.ts:46:167:
+      46 │ ...ion WhatsappButtonComponent_HmrLoad(t) { import(/* @vite-ignore */
+         ╵                                             ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/components/footer/footer.component.ts:219:133:
+      219 │ ...; function FooterComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/components/navbar/navbar.component.ts:207:133:
+      207 │ ...; function NavbarComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/pages/about/about.component.ts:291:124:
+      291 │ ..."; function AboutComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/pages/contact/contact.component.ts:311:132:
+      311 │ ... function ContactComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/pages/home/home.component.ts:569:120:
+      569 │ ...t"; function HomeComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/pages/validation/validation.component.ts:331:144:
+      331 │ ...nction ValidationComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/pages/services/services.component.ts:200:136:
+      200 │ ...function ServicesComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/pages/training-detail/training-detail.component.ts:325:162:
+      325 │ ...on TrainingDetailComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/components/training-card/training-card.component.ts:122:159:
+      122 │ ...tion TrainingCardComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+● [DEBUG] This "import" expression will not be bundled because the argument is not a string literal [unsupported-dynamic-import]
+
+    src/app/pages/training-hub/training-hub.component.ts:190:150:
+      190 │ ...ction TrainingHubComponent_HmrLoad(t) { import(/* @vite-ignore */
+          ╵                                            ~~~~~~
+
+✔ Building...
+Initial chunk files | Names                     |  Raw size
+styles.css          | styles                    |  66.22 kB | 
+main.js             | main                      |  38.85 kB | 
+chunk-YQOESBWP.js   | -                         | 754 bytes | 
+
+                    | Initial total             | 105.83 kB
+
+Lazy chunk files    | Names                     |  Raw size
+chunk-PNHMYYBB.js   | home-component            |  41.72 kB | 
+chunk-OAKWGCPW.js   | contact-component         |  25.91 kB | 
+chunk-ZCXIJIKY.js   | validation-component      |  23.70 kB | 
+chunk-6FGCWO3U.js   | training-detail-component |  23.36 kB | 
+chunk-R3E5XN3R.js   | about-component           |  20.26 kB | 
+chunk-UWY7NIKS.js   | training-hub-component    |  14.40 kB | 
+chunk-YYEQW4ON.js   | services-component        |  13.84 kB | 
+chunk-RO4VQ3NP.js   | -                         |   8.03 kB | 
+chunk-GSMTHZWI.js   | -                         |   3.88 kB | 
+
+Application bundle generation complete. [152.756 seconds] - 2026-04-22T13:19:12.675Z
+
+Watch mode enabled. Watching for file changes...
+NOTE: Raw file sizes do not reflect development server per-request transformations.
+An unhandled exception occurred: Port 3000 is already in use
+See "/tmp/ng-Oq50xd/angular-errors.log" for further details.

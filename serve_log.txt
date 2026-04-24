@@ -1,0 +1,35 @@
+
+Warning: This is a simple server for use in testing or debugging Angular applications
+locally. It hasn't been reviewed for security issues.
+
+Binding this server to an open connection can result in compromising your application or
+computer. Using a different host than the one passed to the "--host" flag might result in
+websocket connection issues.
+    
+❯ Building...
+✔ Building...
+Initial chunk files | Names                     |  Raw size
+styles.css          | styles                    |  66.22 kB | 
+main.js             | main                      |  38.85 kB | 
+chunk-YQOESBWP.js   | -                         | 754 bytes | 
+
+                    | Initial total             | 105.83 kB
+
+Lazy chunk files    | Names                     |  Raw size
+chunk-PNHMYYBB.js   | home-component            |  41.72 kB | 
+chunk-OAKWGCPW.js   | contact-component         |  25.91 kB | 
+chunk-ZCXIJIKY.js   | validation-component      |  23.70 kB | 
+chunk-6FGCWO3U.js   | training-detail-component |  23.36 kB | 
+chunk-R3E5XN3R.js   | about-component           |  20.26 kB | 
+chunk-UWY7NIKS.js   | training-hub-component    |  14.40 kB | 
+chunk-YYEQW4ON.js   | services-component        |  13.84 kB | 
+chunk-RO4VQ3NP.js   | -                         |   8.03 kB | 
+chunk-GSMTHZWI.js   | -                         |   3.88 kB | 
+
+Application bundle generation complete. [137.720 seconds] - 2026-04-22T13:18:31.548Z
+
+Watch mode enabled. Watching for file changes...
+NOTE: Raw file sizes do not reflect development server per-request transformations.
+1:18:32 PM [vite] (client) Re-optimizing dependencies because vite config has changed
+An unhandled exception occurred: Port 3000 is already in use
+See "/tmp/ng-dLPNZh/angular-errors.log" for further details.
